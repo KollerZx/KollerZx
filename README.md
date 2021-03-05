@@ -17,7 +17,7 @@ tenho implementado algumas soluções e automatizado algumas tarefas do dia a di
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
   ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -47,7 +47,7 @@ tenho implementado algumas soluções e automatizado algumas tarefas do dia a di
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Henrique Koller](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-koller/)](https://www.linkedin.com/in/henrique-koller/)
+[![Linkedin: Henrique Koller](https://img.shields.io/badge/-Henrique Koller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-koller/)](https://www.linkedin.com/in/henrique-koller/)
 [![Gmail Badge](https://img.shields.io/badge/-henrique.koller@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrique.koller@gmail.com)](mailto:henrique.koller@gmail.com)
 [![GitHub Henrique Koller]( https://img.shields.io/github/followers/KollerZx?label=follow&style=social)](https://github.com/KollerZx)
 
