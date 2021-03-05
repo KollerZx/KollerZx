@@ -3,12 +3,12 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em **TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL** no <a href="https://telemaco.ifpr.edu.br/">IFPR</a>, e cursando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.unicesumar.edu.br/home/">UNICESUMAR</a>.
+- 🎓 &nbsp; Formado em **TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL** no <a href="https://telemaco.ifpr.edu.br/">IFPR</a>, e cursando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.unicesumar.edu.br/home/">UNICESUMAR</a>.
 - 💼 &nbsp; Atualmente sou servidor público na Prefeitura de Telêmaco Borba - PR, atuando no setor de RH. Porém, devido aos meus conhecimentos,
 tenho implementado algumas soluções e automatizado algumas tarefas do dia a dia.
 - 🌱 &nbsp; Aprendendo mais sobre:
   - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -18,9 +18,9 @@ tenho implementado algumas soluções e automatizado algumas tarefas do dia a di
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 **Utilidades**
 
@@ -36,12 +36,6 @@ tenho implementado algumas soluções e automatizado algumas tarefas do dia a di
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/KollerZx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KollerZx&theme=dracula&show_icons=true" />
-</a>
 
 <br/>
 
