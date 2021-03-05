@@ -47,7 +47,7 @@ tenho implementado algumas soluções e automatizado algumas tarefas do dia a di
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Henrique Koller](https://img.shields.io/badge/-Henrique Koller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-koller/)](https://www.linkedin.com/in/henrique-koller/)
+[![Linkedin: Henrique Koller](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-koller/)](https://www.linkedin.com/in/henrique-koller/)
 [![Gmail Badge](https://img.shields.io/badge/-henrique.koller@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrique.koller@gmail.com)](mailto:henrique.koller@gmail.com)
 [![GitHub Henrique Koller]( https://img.shields.io/github/followers/KollerZx?label=follow&style=social)](https://github.com/KollerZx)
 
