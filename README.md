@@ -6,7 +6,9 @@
 - 🎓 &nbsp; Formado em **TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL** no <a href="https://telemaco.ifpr.edu.br/" target="_blank">IFPR</a>, e cursando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.unicesumar.edu.br/home/">UNICESUMAR</a>.
 - 🌱 &nbsp; Aprendendo mais sobre:  
   - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  - ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+  
 - :globe_with_meridians: &nbsp; <a href="https://koller-dev.vercel.app/">Meu Portifólio</a>
 - 💬 &nbsp; Se você deseja desenvolver algum projeto comigo, ou apenas bater um papo sobre tecnologias, não hesite em me enviar uma mensagem 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -17,6 +19,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
   ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
