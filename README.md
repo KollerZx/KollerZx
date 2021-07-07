@@ -4,9 +4,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL** no <a href="https://telemaco.ifpr.edu.br/" target="_blank">IFPR</a>, e cursando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.unicesumar.edu.br/home/">UNICESUMAR</a>.
-- 💼 &nbsp; Atualmente sou servidor público na Prefeitura de Telêmaco Borba - PR, atuando no setor de RH. Estou a procura da primeira oportunidade de emprego 
-com desenvolvimento de software.
 - 🌱 &nbsp; Aprendendo mais sobre:
+  - <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>  
   - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 - :globe_with_meridians: &nbsp; <a href="https://koller-dev.vercel.app/">Meu Portifólio</a>
