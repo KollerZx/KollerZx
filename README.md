@@ -4,10 +4,9 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL** no <a href="https://telemaco.ifpr.edu.br/" target="_blank">IFPR</a>, e cursando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.unicesumar.edu.br/home/">UNICESUMAR</a>.
-- 🌱 &nbsp; Aprendendo mais sobre:
-  - <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>  
+- 🌱 &nbsp; Aprendendo mais sobre:  
   - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+  - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - :globe_with_meridians: &nbsp; <a href="https://koller-dev.vercel.app/">Meu Portifólio</a>
 - 💬 &nbsp; Se você deseja desenvolver algum projeto comigo, ou apenas bater um papo sobre tecnologias, não hesite em me enviar uma mensagem 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -21,6 +20,7 @@
   ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 **Utilidades**
 
