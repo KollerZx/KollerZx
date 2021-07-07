@@ -5,9 +5,9 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL** no <a href="https://telemaco.ifpr.edu.br/" target="_blank">IFPR</a>, e cursando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.unicesumar.edu.br/home/">UNICESUMAR</a>.
 - 🌱 &nbsp; Aprendendo mais sobre:  
-  - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   - ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+  - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
 - :globe_with_meridians: &nbsp; <a href="https://koller-dev.vercel.app/">Meu Portifólio</a>
 - 💬 &nbsp; Se você deseja desenvolver algum projeto comigo, ou apenas bater um papo sobre tecnologias, não hesite em me enviar uma mensagem 
