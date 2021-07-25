@@ -9,7 +9,7 @@
   - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
   - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
-- :globe_with_meridians: &nbsp; <a href="https://koller-dev-portifolio.vercel.app/">Meu Portifólio</a>
+- :globe_with_meridians: &nbsp; <a href="https://koller-dev-portifolio.vercel.app/" target="_blank">Meu Portifólio</a>
 - 💬 &nbsp; Se você deseja desenvolver algum projeto comigo, ou apenas bater um papo sobre tecnologias, não hesite em me enviar uma mensagem 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
