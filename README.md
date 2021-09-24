@@ -5,7 +5,6 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL** no <a href="https://telemaco.ifpr.edu.br/" target="_blank">IFPR</a>, e cursando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.unicesumar.edu.br/home/">UNICESUMAR</a>.
 - 🌱 &nbsp; Aprendendo mais sobre:  
-  - ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
   - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
@@ -14,16 +13,16 @@
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-  ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  - ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  - ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  - ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+  - ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 **Utilidades**
 
