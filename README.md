@@ -13,7 +13,7 @@
 - 💬 &nbsp; Se você deseja desenvolver algum projeto comigo, ou apenas bater um papo sobre tecnologias, não hesite em me enviar uma mensagem 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Stacks**
+**Dev stacks**
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   - ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   - ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
@@ -24,11 +24,18 @@
   - ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
   - ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
   - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+  - ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
   - ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
   - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
   - ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
- 
+  
+ **Machine Learning**
+ - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+ - ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=flat)
+ - ![YOLO](https://img.shields.io/badge/YOLO-0FF?logo=yolo&logoColor=000&style=flat)
+ - ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
+ - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat)
 
 **Utilidades**
 
